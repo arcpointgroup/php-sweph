@@ -22,7 +22,7 @@ Now you should able to see sweph section from `phpinfo()`.
  sweph support | enabled 
 ---|---
  extension version | 2.0 Rev: 28
- library (libswe.a) version | 2.09.02
+ library (libswe.a) version | 2.10.1
  default ephemeris file path | .:/users/ephe2/:/users/ephe/ 
 
 You are all set!
